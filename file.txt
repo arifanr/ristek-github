@@ -1,1 +1,3 @@
 Hello Git
+Hello, my name is arifan
+lupa
